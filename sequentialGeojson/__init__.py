@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-sequential-geojson
+sequentialGeojson
 
 This module provides a generator interface to geojson files consisting of a
 feature collection and returns its content feature-by-feature as an iterator.

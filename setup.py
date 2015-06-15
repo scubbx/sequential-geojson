@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='sequentialGeojson',
-    version='0.1',
+    version='0.2',
     description='A python generator object that provides sequential access to features inside a FeatureCollection of a GeoJson file.',
     long_description=readme(),
     classifiers=[
